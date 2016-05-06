@@ -1,7 +1,5 @@
 <?php
 
-
-
 function arrangeBiggestNumber ($massiv) {
   if (empty($massiv)) { return;}
   $test = $massiv;
